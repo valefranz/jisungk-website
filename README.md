@@ -1,6 +1,6 @@
 ## Personal Website
 
-Hi! My name is Ji-Sung. I'm currently studying Computer Science at [Princeton University](https://www.cs.princeton.edu/). This is my personal website. 
+Hi! My name is [Ji-Sung](http://www.jisungkim.com). I'm currently studying Computer Science at [Princeton University](https://www.cs.princeton.edu). This is my personal website. 
 
 Note: It is currently a work-in-progress.
 
