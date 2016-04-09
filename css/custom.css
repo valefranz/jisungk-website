@@ -44,3 +44,9 @@ img.center {
 	height: auto;
 	display: block;
 }
+
+img.profile {
+	max-width: 90%;
+	height: auto;
+	margin: 0 auto;
+}
