@@ -27,18 +27,11 @@ h2.section-title {
 
 p.section-subtitle {
 	font-size: 20px;
-	font-weight: 300;
-	line-height: 1.4;
-}
-
-p.paragraph {
-	font-size: 20px;
-	font-weight: 300;
+	font-weight: 500;
 	line-height: 1.4;
 }
 
 h3.block-title {
-	font-weight: 500;
 	color: #446179;
 }
 
