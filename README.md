@@ -1,15 +1,11 @@
 ## Personal Website
 
-Hi! My name is [Ji-Sung](http://www.jisungkim.com). I'm currently studying Computer Science at [Princeton University](https://www.cs.princeton.edu). This is my personal website. 
+Hi! My name is [Ji-Sung](http://www.jisungkim.com). I'm currently studying Computer Science at [Princeton University](https://www.cs.princeton.edu). I work in the fields of data science, deep learning, and machine learning. Additionally, I'm passionate about fashion, design, and learning how to cook.
 
-Note: It is currently a work-in-progress.
+This is a repo for my personal website.
 
-## Media Copyright
+## Copyright
 
-Images and other media are copyrighted. Copyright 2015 Ji-Sung Kim, All Rights Reserved.
-
-## Code Attribution, Copyright, and License
-
-Copyright 2015, Ji-Sung Kim.
+Code, images and other media are copyrighted (Ji-Sung Kim).
 
 This website uses the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
